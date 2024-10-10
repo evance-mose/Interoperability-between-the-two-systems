@@ -1,4 +1,4 @@
-# FastAPI MongoDB and MySQL Integration
+# Integration of FastAPI with both MongoDB and MySQL enables interoperability between the two systems.
 
 This README provides a brief overview of how to integrate and achieve interoperability between MongoDB and MySQL databases in a FastAPI application. Combining these two databases can offer flexibility and scalability for your data storage needs.
 
